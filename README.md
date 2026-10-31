@@ -263,6 +263,4 @@ Chen, L.-C., Zhu, Y., Papandreou, G., Schroff, F. and Adam, H. (2018). *Encoder-
 
 **Samiksha Vanga**
 
-BSc Computer Science, University of Nottingham
-
 [GitHub](https://github.com/samiVanga)
